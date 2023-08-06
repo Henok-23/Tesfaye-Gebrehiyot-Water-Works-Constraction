@@ -1,0 +1,272 @@
+.gradient-background {
+    background: linear-gradient(300deg, #0b2735, #a61ba8, #326a47);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+
+  }
+  .go{
+    display: flex;
+    gap:20px;
+    font-size: 25px;
+    justify-content: right;  }
+  
+  .feature-icon {
+    width: 10rem,;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+.feature-icon{
+    background-color: whitesmoke;
+    ;
+}
+.ourfeature{
+    background-color:rgb(255, 253, 208);
+}
+.lead{
+    font-family: 'Caveat', cursive;
+    font-family: 'Lumanosimo', cursive;
+    font-family: 'Mukta', sans-serif;
+}
+.ttt{
+ width:1000px;
+ text-align: center;
+ font-size: 1.25rem;
+ 
+}
+@media(min-width: 800px){
+    .ttt{
+        width:500px;
+    }
+}
+@media(max-width:800px){
+    .ttt{
+        width:350px;
+    }
+}
+.meatth{
+font-weight: bold;
+font-family: 'Caveat', cursive;
+font-size: 50px;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+.Teamm{
+    font-family: 'Caveat', cursive;
+    font-size:30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+@media(max-width:800px){
+    .piccss {
+    width: 400px;
+    height:400px;}
+}
+@media(min-width:801px){
+    .piccss {
+    width: 600px;
+    height:800px;}}
+
+  @media(max-width:800px){
+        .Teshome {
+        width: 400px;
+        height:400px;}
+    }
+ @media(min-width:801px){
+        .Teshome {
+        width: 600px;
+        height:800px;}}
+.MeetTeam{
+        padding-left: 20%;
+        /*17.42 % */
+    }
+.what{
+    font-size: 30px;
+    font-family: 'Abel', sans-serif;
+    padding-left: 20px;
+
+}
+.linow{
+    font-size: 23px;
+    font-family: 'Abel', sans-serif;
+    padding-left: 20px;
+}
+.mtext{
+    font-family: 'Abel', sans-serif;
+    padding-top: 20px;
+    font-size: 28px;
+}
+
+
+@media(max-width:800px){
+    .vision {
+    width: 400px;
+    height:400px;}
+}
+@media(min-width:801px){
+    .vision {
+    width: 600px;
+    height:800px;}}
+
+
+ @media(max-width:800px){
+        .Goal {
+        width: 400px;
+        height:400px;}
+    }
+
+ @media(min-width:801px){
+        .Goal {
+        width: 700px;
+        height:700px;}}
+
+
+@media(max-width:800px){
+            .Values {
+            width: 400px;
+            height:400px; } }
+
+ @media(min-width:801px){
+            .Values {
+            width: 700px;
+            height:700px;}}
+
+
+.mtextt{
+font-weight: bold;
+font-size:45px ;
+
+}
+
+@media(max-width:800px){
+    .firstcarsoul {
+    width: 700px;
+    height:500px;}
+}
+@media(min-width:801px){
+    .firstcarsoul {
+    width: 1100px;
+    height:900px;}}
+    .firstcarsoul{
+        padding-left: 30%;
+    }
+    .list{
+        font-size: 50px;
+        font-weight: bold;
+    }
+    .one{
+        font-size: 50px;
+        font-weight: lighter;
+        text-align: center;
+
+    }
+    @media(max-width:800px){
+        .secondcarsoul {
+        width: 700px;
+        height:500px;}
+    }
+    @media(min-width:801px){
+        .secondcarsoul {
+        width: 1100px;
+        height:900px;}}
+    .secondcarsoul{
+        padding-left: 30%;
+        padding-top: 200px;
+    }
+    .two{
+        font-size:50px;
+        font-weight: lighter;
+        padding-top: 400px;
+        text-align: center;
+    }
+    .thirdcarsoul{
+        padding-left: 30%;
+        padding-top: 200px;
+    }
+    @media(max-width:800px){
+        .thirdcarousel{
+        width: 700px;
+        height:500px;}
+    }
+    @media(min-width:801px){
+        .thirdcarousel {
+        width: 1100px;
+        height:900px;}}
+    .Third{
+        font-size:50px;
+        font-weight: lighter;
+        padding-top: 600px;
+        text-align: center;
+        }
+    .thirdcarousel{
+        padding-top:200px;
+        padding-left:30%;
+    }
+.backg{
+    background-color:FFF6E0;
+}
+@media(max-width:800px){
+.sprr{
+width:700px;
+height:500px;
+}
+}
+@media(min-width:801px){
+    .sprr{
+        width:1100px;
+        height:900px;
+    }
+}
+.sprr{
+    padding-top: 50px;
+    padding-left: 30%;
+}
+.four{
+    font-size:50px;
+    font-weight: lighter;
+    padding-top: 100px;
+    text-align: center;
+}
+.water_point{
+    font-size:50px;
+    font-weight: lighter;
+    padding-top: 100px;
+    text-align: center;
+}
+.contain_all{
+    background-color: #FFF6E0;
+}
+.cont{
+    background-color: #FFF6E0;
+}
+.containnn{
+    background-color:#FFF6E0 ;
+}
+.parac{
+    font-size: 25px;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+}
+.cooo{
+    background-color: #FFF6E0;
+}
+.maker{
+padding-left: 70%;
+font-size: 12px;
+}
+.mtext{
+    padding-left:30%;
+}
+.im{
+    padding-left:10%
+}
+.other{
+    font-size: 30px;
+    text-align: center;
+}
+.m{
+    font-size: 20px;
+    padding-right: 13%;
+    padding-left: 13%;
+}
